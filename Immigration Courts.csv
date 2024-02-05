@@ -1,0 +1,69 @@
+﻿Address,Latitude,Longitude,Zip,City,Country,Region,Court,Detention,,Represented,Not_Represented,Governor
+"1705 E. Hanna Road, Suite 366 Eloy, AZ 85131",32.8176031,-111.5200938,85131,Eloy,United States,Arizona,Eloy,1,,3140,3428,D
+"3260 N. Pinal Parkway Avenue Florence, AZ 85132",33.0636369,-111.3789917,85132,Florence,United States,Arizona,Florence,1,,19590,2333,D
+"250 N. Seventh Ave., Suite 300 Phoenix, AZ 85007",33.4508989,-112.0832085,85007,Phoenix,United States,Arizona,Phoenix,0,,5733,1752,D
+"300 West Congress, Suite 300 Tucson, AZ 85701",32.2218927,-110.9758066,85701,Tucson,United States,Arizona,Tucson,0,,836,680,D
+"10250 Rancho Road, Suite 201A, Adelanto, CA 92301",34.5592376,-117.4415063,92301,Adelanto,United States,California,Adelanto,1,,1145,1404,D
+"2409 La Brucherie Road Imperial, CA 92251",32.8266637,-115.5793027,92251,Imperial,United States,California,Imperial,0,,18961,2832,D
+"606 S. Olive Street 15th Floor Los Angeles, CA 90014",34.0477206,-118.2541013,90014,Los Angeles,United States,California,Los Angeles,0,,715,722,D
+"300 North Los Angeles Street Room 4330 Los Angeles, CA 90012",34.0537012,-118.23977,90012,Los Angeles,United States,California,Los Angeles - North,0,,5505,2175,D
+"7488 Calzada de la Fuente San Diego, CA 92154",32.5750242,-116.9147637,92154,San Diego,United States,California,Otay Mesa,1,,18450,2466,D
+"880 Front Street, San Diego, CA 92101",32.7183484,-117.1670069,92101,San Diego,United States,California,San Diego,0,,2174,459,D
+"100 Montgomery Street, Suite 800 San Francisco, CA 94104",37.790359,-122.401888,94104,San Francisco,United States,California,San Francisco,0,,1109,1494,D
+"3130 N. Oakland Street Aurora, CO 80010",39.7614567,-104.8494748,80010,Aurora,United States,Colorado,Aurora,1,,4534,965,D
+"1961 Stout Street, Suite 3101 Denver, CO 80294",39.7495249,-104.9892957,80294,Denver,United States,Colorado,Denver,0,,,,D
+"450 Main Street Room 628 Hartford, CT 06103-3015",41.7611978,-72.6741193,06103,Hartford,United States,Connecticut,Hartford,0,,15193,2786,D
+"333 S. Miami Avenue, Suite 700 Miami, FL 33130",25.7710513,-80.1930778,33130,Miami,United States,Florida,Miami,0,,5753,1725,R
+"18201 SW 12th Street Building #1, Suite C Miami, FL 33194",25.7543513,-80.489049,33194,Miami,United States,Florida,Miami - Krome,1,,2057,2537,R
+"3535 Lawton Road, Suite 200 Orlando, FL 32803",28.5606454,-81.3405717,32803,Orlando,United States,Florida,Orlando,0,,5908,2692,R
+"401 W. Peachtree Street, Suite 2600, Atlanta, GA 30308",33.765371,-84.3870856,30308,Atlanta,United States,Georgia,Atlanta,0,,5898,1868,R
+"180 Ted Turner Drive, SW, Suite 241, Atlanta, GA 30303",33.7495295,-84.397338,30303,Atlanta,United States,Georgia,Atlanta-ATD,0,,7338,1693,R
+"146 CCA Road PO Box 248 Lumpkin, GA 31815",32.0365622,-84.7713749,31815,Lumpkin,United States,Georgia,Lumpkin,1,,1150,483,R
+"300 Ala Moana Blvd., Rm. 8-112 Honolulu, HI 96850",21.3034692,-157.8623345,96850,Honolulu,United States,Hawaii,Honolulu,0,,975,1244,D
+"525 West Van Buren Street, Suite 500 Chicago, IL 60607",41.876298,-87.6401933,60607,Chicago,United States,Illinois,Chicago,1,,5494,3105,D
+"536 Clark Street, Suite 340 Chicago, IL 60605",41.8919632,-87.6314175,60654,Chicago,United States,Illinois,Chicago,0,Unable to differentiate between rulings in detained/not detained,1298,2865,D
+"830 Pine Hill Road P.O. Box 2179 Jena, LA, 71342",31.6832271,-92.1337448,,Jena,United States,Louisiana,Jena,1,,699,1425,R
+"365 Canal Street, Suite 500 New Orleans, LA 70130",29.9514679,-90.0656908,70130,New Orleans,United States,Louisiana,New Orleans,0,,1714,1668,R
+"1900 E. Whatley Road Oakdale, LA 71463",30.8315506,-92.6403676,71463,Oakdale,United States,Louisiana,Oakdale,0,,4969,1039,R
+"31 Hopkins Plaza, Rm. 440 Baltimore, MD 21201",39.2881562,-76.6167255,21201,Baltimore,United States,Maryland,Baltimore,0,,2805,375,D
+"15 New Sudbury Street Room 320 Boston, MA 02203",42.3609639,-71.0603133,02203,Boston,United States,Massachusetts,Boston,0,,18189,5022,D
+"477 Michigan Avenue, Suite 440 Detroit, MI 48226",42.3311438,-83.0531696,48226,Detroit,United States,Michigan,Detroit,0,,2124,721,D
+"1 Federal Drive, Suite 1850 Fort Snelling, MN 55111",44.8941305,-93.1948495,55111,Saint Paul,United States,Minnesota,Bloomington,0,,3186,356,D
+"2345 Grand Boulevard, Suite 525 Kansas City, MO 64108",39.0851882,-94.5809296,64108,Kansas City,United States,Missouri,Kansas City,0,Fort Snelling,3088,161,R
+"1717 Avenue H, Suite 100 Omaha, NE 68110",41.2805553,-95.9085728,68110,Omaha,United States,Nebraska,Omaha,0,,1924,1099,R
+"110 North City Parkway, Suite 400 Las Vegas, NV 89106",36.1742165,-115.14699,89106,Las Vegas,United States,Nevada,Las Vegas,0,,1124,1233,R
+"625 Evans Street, Room 148A
+Elizabeth, NJ 07201",40.6660324,-74.1898667,07201,Elizabeth,United States,New Jersey,Elizabeth,0,,3384,1220,D
+"970 Broad Street, Room 1200 Newark, NJ 07102",40.7301363,-74.1742268,07102,Newark,United States,New Jersey,Newark,0,,1026,1439,D
+"26 McGregor Range Rd., Door #1 Chaparral, NM 88081",32.0768171,-106.2549035,88081,Chaparral,United States,New Mexico,Chaparral,1,,4061,1261,D
+"4250 Federal Drive, Room F108 Batavia, NY 14020",43.020112,-78.2023059,14020,Batavia,United States,New York,Batavia,1,Otero,45549,10247,D
+"130 Delaware Avenue, Suite 300 Buffalo, NY 14202",42.8880416,-78.8778238,14202,Buffalo,United States,New York,Buffalo,0,,6985,2415,D
+"26 Federal Plaza, 12th Floor, Room 1237 New York, NY 10278",40.7152745,-74.0041155,10278,New York,United States,New York,New York,0,,2227,3016,D
+"201 Varick Street, 5th Floor, Room 507 New York, NY 10014",40.7282947,-74.0063254,10014,New York,United States,New York,New York - DET,1,,1825,1736,D
+"5701 Executive Center Drive, Suite 400 Charlotte, NC 28212",35.20041,-80.74324,28212,Charlotte,United States,North Carolina,Charlotte,0,,9980,981,D
+"801 W. Superior Avenue Suite 13 - 100 Cleveland, OH 44113",41.4964131,-81.6974381,44113,Cleveland,United States,Ohio,Cleveland,0,,58590,8450,R
+"1220 SW 3rd Avenue, Suite 500 Portland, OR 97204",45.5144985,-122.6770061,97204,Portland,United States,Oregon,Portland,0,,4112,3104,D
+"900 Market Street, Suite 504 Philadelphia, PA 19107",39.9506101,-75.1557201,19107,Philadelphia,United States,Pennsylvania,Philadelphia,0,,4203,779,D
+"80 Monroe Ave, Suite 501 Memphis, TN 38103",35.1445878,-90.0534736,38103,Memphis,United States,Tennessee,Memphis,0,,139541,14050,R
+"806 Hilbig Road Conroe, TX 77301",30.336088,-95.4425046,77301,Conroe,United States,Texas,Conroe,1,,10684,1481,R
+"1100 Commerce Street, Suite 1060 Dallas, TX 75242",32.7788186,-96.8021081,75242,Dallas,United States,Texas,Dallas,0,,14903,2990,R
+"700 E. San Antonio Avenue Suite 750 El Paso, TX 79901",31.759027,-106.4822991,79901,El Paso,United States,Texas,El Paso,0,,1964,2101,R
+"8915 Montana Avenue, Suite 100 El Paso, TX 79925",31.7938472,-106.3692831,79925,El Paso,United States,Texas,El Paso - EPD,1,,4337,983,R
+"2009 West Jefferson Avenue Suite 300 Harlingen, TX 78550",26.1946938,-97.7187645,78550,Harlingen,United States,Texas,Harlingen,0,,17250,3315,R
+"1919 Smith Street, 14th Floor, Houston TX 77002",29.7519173,-95.3734695,77002,Houston,United States,Texas,Houston,0,,861,636,R
+"8701 S. Gessner Road, 10th Floor, Houston TX 77074",29.6868905,-95.528603,77074,Houston,United States,Texas,Houston - Gessner,0,,1627,2072,R
+"16800 Greenspoint Park Drive, 2nd Floor, Houston, TX  77060",29.9449768,-95.4022177,77060,Houston,United States,Texas,Houston - Greenspoint,0,,10454,1915,R
+"27991 Buena Vista Blvd. Los Fresnos, TX 78566",26.1561812,-97.344862,78566,Los Fresnos,United States,Texas,Los Fresnos,1,,3870,707,R
+"566 Veterans Drive Pearsall, TX 78061",28.8951559,-99.1212316,78061,Pearsall,United States,Texas,Pearsall,1,,3941,1423,R
+"800 Dolorosa Street, Suite 300 San Antonio, TX 78207",29.4239288,-98.4988788,78207,San Antonio,United States,Texas,San Antonio,0,,2171,333,R
+"2975 South Decker Lake Drive, Suite 200
+West Valley City, UT 84119",40.7062912,-111.9461895,84119,West Valley City,United States,Utah,West Valley,0,,5342,1566,R
+"1901 South Bell Street, Suite 200, Arlington, VA 22202",38.8564369,-77.0506248,22202,Arlington,United States,Virginia,Arlington,0,,7726,3226,R
+"1000 Second Avenue, Ste. 2500 Seattle, WA 98104",47.605868,-122.335286,98104,Seattle,United States,Washington,Seattle,0,,50950,8871,D
+"1623 East J Street, Suite 3 Tacoma, WA 98421",47.2491325,-122.4211688,98421,Tacoma,United States,Washington,Tacoma,1,,3095,144,D
+"3311 Toledo Road, Hyattsville, MD 20782",38.96975,-76.95166,20782,Hyattsville,United States,Maryland,Hyattsville,0,,12243,2919,D
+"1406 Jacaman Rd, Laredo, Tx 78041",27.56282,-99.47201,78041,Laredo,United States,Texas,Laredo,0,,1429,45,R
+"650 Capitol Mall, Suite 4-200, Sacramento, CA 95814",38.57767,-121.49993,95814,Sacramento,United States,California,Sacramento,0,,2548,2576,D
+"1241 E. Dyer Road, Suite 200, Santa Ana, CA 92705",33.711559,-117.855392,92705,Santa Ana,United States,California,Santa Ana,0,,1325,793,D
+"21400 Ridgetop Circle, Sterling VA 20166",39.03069,-77.41017,20166,Sterling,United States,Virginia,Sterling,0,,2588,126,R
+"6230 Van Nuys Blvd., Van Nuys, CA 91401",34.1833494,-118.4478226,91401,Van Nuys,United States,California,Van Nuys,0,,4645,593,D
